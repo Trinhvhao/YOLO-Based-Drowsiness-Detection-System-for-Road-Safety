@@ -1,0 +1,9 @@
+path: C:/Users/Admin/PycharmProjects/drowsiness_detection/data2
+
+train: train/images
+val: val/images
+
+# Classes
+nc: 5  # Số lượng lớp thực tế
+
+names: ['awake', 'drowsy', 'texting_phone', 'turning', 'talking_phone']

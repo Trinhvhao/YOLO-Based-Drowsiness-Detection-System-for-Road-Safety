@@ -1,0 +1,20 @@
+dog
+person
+cat
+tv
+car
+meatballs
+marinara sauce
+tomato soup
+chicken noodle soup
+french onion soup
+chicken breast
+ribs
+pulled pork
+hamburger
+cavity
+texting_phone
+turning
+talking_phone
+drowsy
+awake

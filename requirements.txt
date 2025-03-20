@@ -1,0 +1,17 @@
+matplotlib
+numpy
+opencv-python
+Pillow
+PyYAML
+scipy
+torch
+torchvision
+tqdm
+tensorboard
+wandb
+seaborn
+pandas
+coremltools
+onnx
+scikit-learn
+thop
